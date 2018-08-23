@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="Common (experimental) " useProjectSettings="false">
+        <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../build/classes/kotlin/metadata/test" />
+          <option name="classpath" value="$MODULE_DIR$/../../build/classes/kotlin/metadata/main:/Users/jetbrains/mpp-test-002/build/processedResources/main:/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-common/1.2.70-dev-1606/cd24d4e85ba7334becc8ebf7d67fa613f82b8b93/kotlin-test-common-1.2.70-dev-1606.jar:/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-annotations-common/1.2.70-dev-1606/29b669f310d672b21eec1c9c4ec43c621ad798f3/kotlin-test-annotations-common-1.2.70-dev-1606.jar:/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.70-dev-1606/8bb76b1af4675da38d998a6b1637fa3e9f2b7966/kotlin-stdlib-common-1.2.70-dev-1606.jar:/Users/jetbrains/mpp-test-002/build/classes/kotlin/metadata/main" />
+          <option name="moduleName" value="mpp-test-002" />
+          <option name="languageVersion" value="1.2" />
+          <option name="apiVersion" value="1.2" />
+          <option name="multiPlatform" value="true" />
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+</module>

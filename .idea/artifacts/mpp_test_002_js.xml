@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mpp-test-002-js">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="mpp-test-002-js.jar" />
+  </artifact>
+</component>
